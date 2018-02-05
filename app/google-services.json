@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "869551607314",
+    "firebase_url": "https://drivertumbasin.firebaseio.com",
+    "project_id": "drivertumbasin",
+    "storage_bucket": "drivertumbasin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869551607314:android:8b5d2fc43638d3ed",
+        "android_client_info": {
+          "package_name": "in.tumbas.drivertumbasin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869551607314-22msig264suref05minv8cg2toojv2i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tumbas.drivertumbasin",
+            "certificate_hash": "74263e30bc0dbfea7d3957ea59d329a34a7c887e"
+          }
+        },
+        {
+          "client_id": "869551607314-f87dcqsod9cdcqraqth24ob2qfjjoc5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHBH_qzc-TbjR83f38gWJ3-YbLVVdKrmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869551607314-f87dcqsod9cdcqraqth24ob2qfjjoc5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
